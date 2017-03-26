@@ -2,6 +2,14 @@
 /*画面が小さい時*/
 
 @media screen and (max-width: 550px) {
+
+/*body {
+	width: 100%;
+	height: auto;
+}
+*/
+
+
 header .logo {
 width:190px;
 }
@@ -88,6 +96,32 @@ font-size:1000rem;
 padding:0;
 }*/
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,6 +258,16 @@ text-decoration:none;
 
 
 
+
+
+
+
+
+
+
+
+
+
 /*ここのレイアウトがよくわからない。*/
 
 
@@ -303,6 +347,12 @@ padding-top:30px;
 
 
 
+
+
+
+
+
+
 @media screen and (-webkit-min-device-pixel-ratio:2),(min-resolution :2dppx) {
 #cover_area {
 background-image:url("images/top/cover@2x.jpg");
@@ -338,6 +388,28 @@ color:#eaf2f4;
 }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -564,7 +636,9 @@ header {
 	padding: 7px;
 }
 
-
+.wrap {
+	overflow: hidden;
+}
 
 
 
